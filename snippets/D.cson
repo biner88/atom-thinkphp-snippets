@@ -1,0 +1,4 @@
+'.source.php':
+    'D':
+        'prefix':'D'
+        'body': 'D("${1:}")->'

@@ -1,0 +1,4 @@
+'.source.php':
+    'select':
+        'prefix':'select'
+        'body': 'select();'

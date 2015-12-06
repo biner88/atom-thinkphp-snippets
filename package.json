@@ -1,0 +1,23 @@
+{
+  "name": "atom-thinkphp-snippets",
+  "main": "./lib/atom-thinkphp-snippets",
+  "version": "1.0.0",
+  "description": "Atom snippets for thinkphp",
+  "keywords": [
+    "package",
+    "atom",
+    "thinkphp",
+    "snippet",
+    "snippets"
+  ],
+  "bugs": {
+    "url": "https://github.com/biner88/atom-thinkphp-snippets/issues"
+  },
+  "homepage": "https://github.com/biner88/atom-thinkphp-snippets",
+  "repository": "https://github.com/biner88/atom-thinkphp-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,4 @@
+'.source.php':
+    'where':
+        'prefix':'where'
+        'body': 'where(array(${1:}))->'

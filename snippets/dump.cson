@@ -1,0 +1,4 @@
+'.source.php':
+    'dump':
+        'prefix':'dump'
+        'body': 'dump(${1:});'

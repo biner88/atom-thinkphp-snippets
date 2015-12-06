@@ -1,0 +1,8 @@
+'.source.php':
+    'public':
+        'prefix':'public'
+        "body": """
+                public function index(){
+                    ${1:}
+                }
+                """

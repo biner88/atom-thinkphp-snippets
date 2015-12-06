@@ -1,0 +1,4 @@
+'.source.php':
+    'order':
+        'prefix':'order'
+        'body': 'order("${1:}")->'

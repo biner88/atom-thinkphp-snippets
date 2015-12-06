@@ -1,0 +1,4 @@
+'.source.php':
+    'setField':
+        'prefix':'setField'
+        'body': 'setField("${1:}","${2:}");'

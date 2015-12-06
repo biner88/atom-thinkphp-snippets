@@ -1,0 +1,4 @@
+'.source.php':
+    'field':
+        'prefix':'field'
+        'body': 'field("${1:}")->'

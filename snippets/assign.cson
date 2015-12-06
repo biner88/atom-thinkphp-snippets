@@ -1,0 +1,4 @@
+'.source.php':
+    'assign':
+        'prefix':'assign'
+        'body': '$this->assign("$${1:}",$name);'

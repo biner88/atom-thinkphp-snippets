@@ -1,0 +1,4 @@
+'.source.php':
+    'limit':
+        'prefix':'limit'
+        'body': 'limit("${1:}")->'

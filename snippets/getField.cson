@@ -1,0 +1,4 @@
+'.source.php':
+    'getField':
+        'prefix':'getField'
+        'body': 'getField("${1:}");'

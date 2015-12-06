@@ -1,0 +1,4 @@
+'.source.php':
+    'sum':
+        'prefix':'sum'
+        'body': 'sum();'

@@ -1,0 +1,4 @@
+'.source.php':
+    'max':
+        'prefix':'max'
+        'body': 'max();'

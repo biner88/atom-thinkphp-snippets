@@ -1,0 +1,4 @@
+'.source.php':
+    'count':
+        'prefix':'count'
+        'body': 'count();'

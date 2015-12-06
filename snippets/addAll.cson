@@ -1,0 +1,4 @@
+'.source.php':
+    'addAll':
+        'prefix':'addAll'
+        'body': 'addAll($${1:dataList},$${2:options},$${3:replace});'

@@ -1,0 +1,4 @@
+'.source.php':
+    'find':
+        'prefix':'find'
+        'body': 'find();'

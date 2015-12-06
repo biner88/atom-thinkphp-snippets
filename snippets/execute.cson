@@ -1,0 +1,4 @@
+'.source.php':
+    'execute':
+        'prefix':'execute'
+        'body': 'execute(${1:})->'

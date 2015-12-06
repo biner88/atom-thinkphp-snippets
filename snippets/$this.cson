@@ -1,0 +1,4 @@
+'.source.php':
+    'this':
+        'prefix':'this'
+        'body': '$this->'

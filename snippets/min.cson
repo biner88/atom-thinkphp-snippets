@@ -1,0 +1,4 @@
+'.source.php':
+    'min':
+        'prefix':'min'
+        'body': 'min();'

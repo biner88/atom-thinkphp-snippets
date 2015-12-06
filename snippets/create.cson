@@ -1,0 +1,4 @@
+'.source.php':
+    'create':
+        'prefix':'create'
+        'body': 'create();'

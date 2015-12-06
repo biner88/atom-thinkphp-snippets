@@ -1,0 +1,4 @@
+'.source.php':
+    'delete':
+        'prefix':'delete'
+        'body': 'delete();'

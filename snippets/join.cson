@@ -1,0 +1,4 @@
+'.source.php':
+    'join':
+        'prefix':'join'
+        'body': 'join("${1:}")->'

@@ -1,0 +1,4 @@
+'.source.php':
+    'redirect':
+        'prefix':'redirect'
+        'body': '$this->redirect(${1:$url},${2:$params},${3:$delay},${4:$msg});'

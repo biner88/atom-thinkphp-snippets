@@ -1,0 +1,4 @@
+'.source.php':
+    'S':
+        'prefix':'S'
+        'body': 'S(${1:$name},${2:$value},${3:$options});'

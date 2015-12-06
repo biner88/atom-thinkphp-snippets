@@ -1,0 +1,4 @@
+'.source.php':
+    'display':
+        'prefix':'display'
+        'body': '$this->display(${1:});'

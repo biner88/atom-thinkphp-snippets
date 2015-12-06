@@ -1,0 +1,4 @@
+'.source.php':
+    'success':
+        'prefix':'success'
+        'body': '$this->success("${1:}");'

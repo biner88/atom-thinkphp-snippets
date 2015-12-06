@@ -1,0 +1,4 @@
+'.source.php':
+    'relation':
+        'prefix':'relation'
+        'body': 'relation(true)->'

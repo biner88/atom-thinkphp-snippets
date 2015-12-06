@@ -1,0 +1,4 @@
+'.source.php':
+    'cookie':
+        'prefix':'cookie'
+        'body': 'cookie(${1:$name},${2:$value},${3:$option})->'

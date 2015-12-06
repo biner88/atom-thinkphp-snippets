@@ -1,0 +1,4 @@
+'.source.php':
+    'group':
+        'prefix':'group'
+        'body': 'group("${1:}")->'

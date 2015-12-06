@@ -1,0 +1,4 @@
+'.source.php':
+    'error':
+        'prefix':'error'
+        'body': '$this->error("${1:}");'

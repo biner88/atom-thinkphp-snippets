@@ -1,0 +1,4 @@
+'.source.php':
+    'have':
+        'prefix':'have'
+        'body': 'have("${1:}")->'
