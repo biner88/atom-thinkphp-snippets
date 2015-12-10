@@ -1,0 +1,4 @@
+'.source.php':
+    'array':
+        'prefix':'array'
+        'body': 'array(${1:})'
